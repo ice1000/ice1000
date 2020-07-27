@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there 👋 this is Tesla Ice Zhang. Typical usernames include `ice1000` or `tizusa`.
 
-<!--
-**ice1000/ice1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 🌱 [blog], [opensource-contributions], [resume], [profile], [codewars].
++ 🤔 I'm learning [HoTT] and is researching on its constructive interpretations.
++ 💬 Ask me about IDEs, type theories and implementation of dependent type systems!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [blog]: https://ice1000.org
+ [opensource-contributions]: https://ice1000.org/opensource-contributions
+ [resume]: https://github.com/ice1000/resume
+ [profile]: https://personal.psu.edu/yqz5714
+ [codewars]: https://www.codewars.com/users/ice1000
+ [HoTT]: https://homotopytypetheory.org
