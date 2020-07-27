@@ -1,6 +1,6 @@
-Hi there 👋 this is Tesla Ice Zhang. Typical usernames include `ice1000` or `tizusa`.
+Hi there 👋 I go by Tesla Ice Zhang. Typical usernames include `ice1000` or `tizusa`.
 
-+ 🌱 [blog], [opensource-contributions], [resume], [profile], [codewars].
++ 🌱 I have a [blog], [opensource-contributions], a [resume], a [profile], and a [codewars] profile.
 + 🤔 I'm learning [HoTT] and is researching on its constructive interpretations.
 + 💬 Ask me about IDEs, type theories and implementation of dependent type systems!
 
