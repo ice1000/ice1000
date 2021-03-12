@@ -2,6 +2,7 @@ Hi there 👋 I go by Tesla Ice Zhang. Typical usernames include `ice1000` or `t
 
 + 🌱 I have a [blog], [opensource-contributions], a [resume], a research [profile], and a [codewars] profile.
 + 🤔 I'm learning [HoTT] and is researching on its constructive interpretations, like cubical type theories.
++ 👨‍💻 I'm currently working on a dependently-typed programming language [Aya] with some interesting ideas.
 + 💬 Ask me about IDEs, type theories and implementation of (univalent) dependent type systems!
 
  [blog]: https://ice1000.org
@@ -10,3 +11,4 @@ Hi there 👋 I go by Tesla Ice Zhang. Typical usernames include `ice1000` or `t
  [profile]: https://personal.psu.edu/yqz5714
  [codewars]: https://www.codewars.com/users/ice1000
  [HoTT]: https://homotopytypetheory.org
+ [Aya]: https://github.com/aya-prover/aya-dev
