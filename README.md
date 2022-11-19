@@ -11,6 +11,8 @@ Hi there 👋 I go by Tesla Zhang. Typical usernames include `ice1000` or `tizus
   + The [website][AyaWeb] contains installation instructions and basic tutorials. Stay tuned for more!
 + 💬 Ask me about IDEs, type theories and implementation of (univalent) dependent type systems!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ice1000)](https://github.com/ryo-ma/github-profile-trophy)
+
  [blog]: https://ice1000.org
  [opensource-contributions]: https://ice1000.org/opensource-contributions
  [resume]: https://github.com/ice1000/resume
