@@ -27,3 +27,7 @@ Hi there 👋 I go by Tesla Zhang. Typical usernames include `ice1000` or `tizus
  [XTT-impl]: https://github.com/mb64/xtt
  [CCobs]: https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/74/Impredicative-Observational-Equality
  [AyaWeb]: https://www.aya-prover.org
+
+Visit count (since 23 Feb 2023):
+
+![](https://count.getloli.com/get/@ice1000?theme=moebooru)
