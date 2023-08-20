@@ -1,11 +1,7 @@
 Hi there 👋 I go by Tesla Zhang. Typical usernames include `ice1000` or `tizusa`.
 
 + 🌱 I have a [blog], [opensource-contributions], a [resume], a [research profile], an [arXiv profile], and a [codewars profile].
-+ 🤔 I'm learning [HoTT] and is researching on its constructive interpretations, like cubical type theories.
-  + I tried to implement CHM in [Guest0x0], and the work is now integrated into [Aya] (see below).
-  + I'm also interested in [2LTT] and Andras Kovacs' ideas on staged programming with 2LTT.
-  + I will probably implement [CCobs] as the pretype theory in [Aya].
-  + Cool people are working on [implementing][XTT-impl] XTT, check it out!
++ 🤔 I'm learning [HoTT] and relevant type theories, like cubical type theories.
 + 👨‍💻 I'm currently working on a dependently-typed programming language [Aya] with some interesting ideas.
   It's going to be a practical proof assistant with programming features.
   + The [website][AyaWeb] contains installation instructions and basic tutorials. Stay tuned for more!
