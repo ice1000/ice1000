@@ -1,11 +1,24 @@
-Hi there 👋 I go by Tesla Zhang. Typical usernames include `ice1000` or `tizusa`.
+Hi there 👋 I go by Tesla Zhang. Typical social media usernames include `ice1000` or `tizusa`.
 
 + 🌱 I have a [blog], [opensource-contributions], a [resume], a [research profile], an [arXiv profile], and a [codewars profile].
-+ 🤔 I'm learning [HoTT] and relevant type theories, like cubical type theories.
-+ 👨‍💻 I'm currently working on a dependently-typed programming language [Aya] with some interesting ideas.
-  It's going to be a practical proof assistant with programming features.
++ 👨‍💻 I'm currently working on the [Aya] language with some interesting ideas. Goal: make it practical, same as Idris2!
   + The [website][AyaWeb] contains installation instructions and basic tutorials. Stay tuned for more!
-+ 💬 Ask me about IDEs, type theories and implementation of (univalent) dependent type systems!
++ 💬 Ask me about IDEs, type theories, implementation of (univalent) dependent type systems, and 3A yoyoing!
+
+# Where to find my writings
+
+- (pre and early college, 中文) Loads of low-quality contents, those can be found on 知乎 and my old blog (deleted).
+  I strongly discourage anyone to read them -- unless you explicitly intend to humiliate me.
+- (mid and late college, English) Thoughts / tutorials about Agda, cubical, and PL design on my [blog],
+  also on the [Aya website][AyaWeb].
+- (late college, 中文) Basic type theory tutorials & guides on [茶饭](https://cha.fan/articles/7hPpxieZrGXd8diUzyxM).
+- (graduate, 中文) [Chenjing Bu](https://github.com/abccsss) is building *Banana Space* ([香蕉空间](https://www.bananaspace.org)),
+  a modern math wiki in Chinese. I mainly contribute to type theory stuffs and related areas inspired from another contributor Trebor.
+
+  如果您想要学习类型论，且对阅读英语感到困难，我非常推荐您浏览香蕉空间的相关板块，这些内容主要面向有一定数学背景的读者。如果您对其中的内容有疑问，请联系我。
+- (graduate, English) Some academic articles are uploaded to [arXiv][arXiv profile].
+
+# Fun stuffs
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ice1000)](https://github.com/ryo-ma/github-profile-trophy)
 
