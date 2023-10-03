@@ -1,6 +1,6 @@
 Hi there 👋 I go by Tesla Zhang. Typical social media usernames include `ice1000` or `tizusa`.
 
-+ 🌱 I have a [blog], [opensource-contributions], a [resume], a [research profile], an [arXiv profile], and a [codewars profile].
++ 🌱 I have a [blog], [opensource-contributions], a [resume], an [arXiv profile], and a [codewars profile].
 + 👨‍💻 I'm currently working on the [Aya] language with some interesting ideas. Goal: make it practical, same as Idris2!
   + The [website][AyaWeb] contains installation instructions and basic tutorials. Stay tuned for more!
 + 💬 Ask me about IDEs, type theories, implementation of (univalent) dependent type systems, and 3A yoyoing!
